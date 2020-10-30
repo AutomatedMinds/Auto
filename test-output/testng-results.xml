@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="92812" started-at="2020-10-30T06:38:29Z" finished-at="2020-10-30T06:40:02Z">
+    <groups>
+    </groups>
+    <test name="Test2" duration-ms="92812" started-at="2020-10-30T06:38:29Z" finished-at="2020-10-30T06:40:02Z">
+      <class name="TestCases.Objects">
+        <test-method status="PASS" signature="invokebrowser(java.lang.String)[pri:0, instance:TestCases.Objects@149494d8]" name="invokebrowser" duration-ms="8225" started-at="2020-10-30T06:38:29Z" finished-at="2020-10-30T06:38:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokebrowser -->
+        <test-method status="PASS" signature="test()[pri:1, instance:TestCases.Objects@149494d8]" name="test" duration-ms="84570" started-at="2020-10-30T06:38:37Z" finished-at="2020-10-30T06:40:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="close()[pri:0, instance:TestCases.Objects@149494d8]" name="close" is-config="true" duration-ms="403" started-at="2020-10-30T06:40:02Z" finished-at="2020-10-30T06:40:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.Objects -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
